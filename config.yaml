@@ -1,0 +1,6 @@
+environments:
+  dev:
+    region: us-east-1
+  staging:
+    profile: staging
+    region: us-east-1
